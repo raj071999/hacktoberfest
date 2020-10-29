@@ -1,5 +1,5 @@
 n = int(input())
 if n%2 == 0:
-  print("Eve")
+  print("Num is Eve")
 else:
   print("odd")
